@@ -31,7 +31,7 @@
 
 
 3. **Install a http server. Use any you like, but we recommend `lite-server` for beginners:**
-   - Install NPM ([Download and Instructions](https://www.npmjs.com/))
+   - Install Node-JS (Download and Instructions ( https://nodejs.org/en/download/ ))
    - Install lite-server (with NPM in a terminal/command prompt):
 
     ```bash
